@@ -1,2 +1,2 @@
 ## Hi there 👋
-# good information will appear here soon
+# information will appear here soon
