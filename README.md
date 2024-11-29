@@ -1,11 +1,11 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
-<p> My name is Вьнекщ and I am a Software QA Engineer. Here I want to share some web and mobile testing portfolio items gained during my studies.</p> 
+<p> My name is Dmytro and I am a Software QA Engineer. Here I sharing my web and mobile testing portfolio items gained during my studies.</p> 
 
 <h2>A Few Quick Facts</h2>
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
+<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="200">
 <ul>
-<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> Currently i`m lookink for a job - Check out my <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">CV</a></li>
-<li> 😌 Finished <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">functional software testing course</a> </li>
+<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> Currently i`m lookink for a job - Check out my <a href="https://github.com/tiaptiad/tiaptiad/blob/a0a6ac5f3c0f818f4a247a2f3d0f417f8137bb67/resources/3_CV%20Dmytro%20Tiaptia_QA%20Engineer.pdf">CV</a></li>
+<li> 😌 Finished <a href="https://drive.google.com/file/">functional software testing course</a> </li>
 <li> ☕ From March will start how to automate tests with TS/JS</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://https://github.com/tiaptiad">GitHub</a></li> </li>
 <li> 📖 Do 3D modelling in my free time</li>
